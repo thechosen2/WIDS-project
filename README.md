@@ -11,6 +11,6 @@ During Week 1, we will review Python programming and explore Numpy and Pandas.
 ### Important Links
 * [Python in One video](https://www.youtube.com/watch?v=L5sZ6WgOnj0) <br/>
 * [Numpy Tutorial](https://youtu.be/QUT1VHiLmmI) <br/>
-* [Pandas](https://www.youtube.com/watch?v=vmEHCJofslg&t=767s) <br/>
+* [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&t=767s) <br/>
 
 Please code side by side on your notebooks parallely while going through the tutorials. You can use Google Colab, Jupyter Notebook.
