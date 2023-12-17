@@ -13,4 +13,13 @@ During Week 1, we will review Python programming and explore Numpy and Pandas.
 * [Numpy Tutorial](https://youtu.be/QUT1VHiLmmI) <br/>
 * [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&t=767s) <br/>
 
+
+## Week 2
+
+### Aim
+During Week 2, we will learn about matplotlib and seaborn which are python libraries used for data visualization.
+### Important Links
+* [Matplotlob Tutorial](https://youtu.be/3Xc3CA655Y4?feature=shared) <br/>
+* [Seaborn Tutorial](https://youtu.be/6GUZXDef2U0?feature=shared) <br/>
+
 Please code side by side on your notebooks parallely while going through the tutorials. You can use Google Colab, Jupyter Notebook.
