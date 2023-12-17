@@ -9,7 +9,7 @@ Welcome to the project! This project involves exploring stock market data for te
 ### Aim
 During Week 1, we will review Python programming and explore Numpy and Pandas.
 ### Important Links
-* [Python in One video](https://www.youtube.com/watch?v=L5sZ6WgOnj0) <br/>
+* [Python in One video](https://youtu.be/kqtD5dpn9C8?feature=shared) <br/>
 * [Numpy Tutorial](https://youtu.be/QUT1VHiLmmI) <br/>
 * [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&t=767s) <br/>
 
