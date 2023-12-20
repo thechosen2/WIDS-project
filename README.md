@@ -2,6 +2,11 @@
 
 Welcome to the project! This project involves exploring stock market data for technology giants (Apple, Amazon, Google, Microsoft). We'll use yfinance to gather stock information and visualize it using Seaborn and Matplotlib. The focus is on analyzing stock risk based on past performance and predicting future prices using an Long Short Term Memory (LSTM) network.
 
+# Instructions to submit assignments
+
+Weekly assignments would be pushed to this repository.
+You are required to make a fork of this repo and push your notebooks(assignment solutions) to the respective folders within this repo.
+
 # Resources 
 
 ## Week 1
