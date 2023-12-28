@@ -38,7 +38,7 @@ In this week, we will learn basic financial terms like Moving Average, Daily Ret
 * [Daily Return of a Stock](https://www.wikihow.com/Calculate-Daily-Return-of-a-Stock) <br/>
 * [How to Calculate Stock Correlation Coefficient](https://www.wikihow.com/Calculate-Stock-Correlation-Coefficient) <br/>
 * [How to create a stock correlation matrix in python](https://medium.com/analytics-vidhya/how-to-create-a-stock-correlation-matrix-in-python-4f32f8cb5b50) <br/>
+
 For those who prefer videos
 * [Covariance and Correlation Matrix of stock returns with Python](https://youtu.be/t2Zh-qnFa40?si=yrHM3a0eLD1ZTWyo) <br/> 
-
 * [Please refer the research paper to get idea of upcoming weeks content](https://github.com/amitmalakariitb/WIDS-project/blob/main/Predicting%20stock%20market%20index%20using%20LSTM.pdf) <br/>
